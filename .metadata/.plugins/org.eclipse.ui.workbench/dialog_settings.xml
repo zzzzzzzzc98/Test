@@ -2,7 +2,7 @@
 <section name="Workbench">
 	<section name="WorkbenchPreferenceDialogSettings">
 		<item value="610" key="DIALOG_X_ORIGIN"/>
-		<item value="132" key="DIALOG_Y_ORIGIN"/>
+		<item value="129" key="DIALOG_Y_ORIGIN"/>
 	</section>
 	<section name="org.eclipse.ui.internal.QuickAccess">
 		<item value="-1" key="dialogHeight"/>
@@ -15,6 +15,8 @@
 		</list>
 		<list key="textArray">
 		</list>
+	</section>
+	<section name="PreferencesImportWizard">
 	</section>
 	<section name="NewWizardAction">
 		<item value="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
