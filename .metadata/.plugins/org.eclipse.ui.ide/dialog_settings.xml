@@ -5,6 +5,7 @@
 		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\Administrator\Documents\Tencent Files\331708797\FileRecv\源代码\trainsp"/>
 			<item value="C:\Users\Administrator\eclipse-workspace\air"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
